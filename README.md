@@ -3,11 +3,11 @@ Chrome Dev Tools Coverage JSON Css Purger. Parses json and purge css files with 
 
 #usage
 
-npm install -g @perftool/purge-css
+npm install -g @perftools/purge-css
 
 purge-css coverage.json
  
-You can export coverage.json by usinh Chrome Dev Tools coverage tool.
+You can export coverage.json by using Chrome Dev Tools coverage utility.
 
 The results will be in output folder.
 
