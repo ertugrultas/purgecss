@@ -1,0 +1,31 @@
+{
+  "name": "purgecss",
+  "version": "1.0.0",
+  "description": "Chrome Dev Tools Coverage JSON Css Purger. Parses json and purge css files with used classes.",
+  "main": "./lib/parser.js",
+  "bin": {
+    "purge-css": "./bin/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coverage",
+    "css",
+    "minify",
+    "puegw",
+    "purge css",
+    "chrome",
+    "dev",
+    "tools",
+    "chrome dev",
+    "css coverage"
+  ],
+  "author": {
+    "name": "Ertuğrul TAŞ",
+    "email": "ertugrultas@gmail.com"
+  },
+  "license": "MIT"
+}
